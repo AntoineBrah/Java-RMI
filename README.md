@@ -1,7 +1,5 @@
 # Rendu du TP n°1 : Java RMI
 
-Réalisé par Antoine Barbier & Antoine Brahimi en M1 AIGLE.
-
 Tous les chemins utilisés que ça soit pour le `gestionnaire de sécurité` ou pour le `codebase` sont en relatif. Ceci permet de simplifier la compilation et l'execution.
 
 ## Compilation & Execution 
